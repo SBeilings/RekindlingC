@@ -1,0 +1,6 @@
+/Users/shamielbeilings/Projects/RekindlingC/RekindlingC/bin/Debug/RekindlingC.exe
+/Users/shamielbeilings/Projects/RekindlingC/RekindlingC/bin/Debug/RekindlingC.pdb
+/Users/shamielbeilings/Projects/RekindlingC/RekindlingC/obj/Debug/RekindlingC.csproj.AssemblyReference.cache
+/Users/shamielbeilings/Projects/RekindlingC/RekindlingC/obj/Debug/RekindlingC.csproj.CoreCompileInputs.cache
+/Users/shamielbeilings/Projects/RekindlingC/RekindlingC/obj/Debug/RekindlingC.exe
+/Users/shamielbeilings/Projects/RekindlingC/RekindlingC/obj/Debug/RekindlingC.pdb
